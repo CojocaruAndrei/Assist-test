@@ -1,0 +1,32 @@
+.NavBar--border {
+  height: 100vh;
+  width: 230px;
+  background-color: #347ab4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+}
+.NavBar--logo {
+  margin: 0 auto;
+  padding-top: 20px;
+}
+.NavBar--btn {
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  padding-top: 20px;
+}
+#li1:hover {
+  cursor: pointer;
+}
+#li2:hover {
+  cursor: pointer;
+}
+#li3:hover {
+  cursor: pointer;
+}
+.NavBar--img {
+  width: 50px;
+  height: 50px;
+}

@@ -1,0 +1,23 @@
+.About--container {
+  width: 800px;
+  height: 600px;
+  border-radius: 10px;
+  transform: translateY(10%);
+  text-align: center;
+  margin: 0 auto;
+}
+.About--text {
+  text-align: center;
+}
+.footer-alignt-text {
+  display: flex;
+  justify-content: space-between;
+}
+.footer--container {
+  position: absolute;
+  bottom: 0;
+  width: 60vw;
+  color: #515356;
+  background-color: #ededed;
+  height: 40px;
+}

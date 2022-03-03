@@ -1,0 +1,23 @@
+.Home--container {
+  width: 800px;
+  height: 600px;
+  border-radius: 10px;
+  transform: translateY(10%);
+  text-align: center;
+  margin: 0 auto;
+}
+data--container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.elem--container {
+  width: 300px;
+  flex-basis: 30%;
+}
+
+img {
+  width: 300px;
+}

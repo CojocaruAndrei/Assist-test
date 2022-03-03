@@ -1,0 +1,12 @@
+.Contact--container {
+  width: 800px;
+  height: 600px;
+  border-radius: 10px;
+  transform: translateY(10%);
+  text-align: center;
+  margin: 0 auto;
+}
+.Contact--input {
+  display: flex;
+  flex-direction: column;
+}
